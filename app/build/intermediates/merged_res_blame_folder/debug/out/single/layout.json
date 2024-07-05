@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\fragment_details.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\activity_order_successful.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\activity_order_successful.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.shoptry.app-mergeDebugResources-30:/layout/fragment_order_successful.xml",
+        "source": "com.example.shoptry.app-main-33:/layout/fragment_order_successful.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\product_item.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-mergeDebugResources-30:\\layout\\cart_layout.xml",
+        "source": "C:\\Users\\Joan\\.gradle\\daemon\\8.2\\com.example.shoptry.app-main-33:\\layout\\cart_layout.xml"
+    }
+]
